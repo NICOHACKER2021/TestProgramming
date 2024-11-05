@@ -1,0 +1,39 @@
+.fondo{
+background-color: orange;
+}
+
+.miTexto{
+font-size: 40px;
+color: green;
+}
+
+.title{
+font-size: 61px;
+color: red;
+border: 2px solid black;
+width: fit-content;
+padding: 0px 1em 0px 1em;
+border-radius: 10%;
+transition: 0.5s;
+margin: auto;
+}
+
+.title:hover{
+background-color:brown;
+margin: auto;
+}
+
+.logo{
+width: 250px;
+}
+
+#titulo{
+border: 2px solid gray ;
+width: 41vw;
+margin: auto;
+padding: 1em;
+}
+
+.introduccion{
+display: flex;
+}
